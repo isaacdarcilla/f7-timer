@@ -81,3 +81,7 @@ https://patreon.com/vladimirkharlampidi
 ## Message
 
 Message me for API
+
+## Android Package
+
+📱 Download the android APK http://bit.ly/3amZt4M
