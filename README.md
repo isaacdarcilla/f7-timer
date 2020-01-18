@@ -8,7 +8,7 @@ Event Timer is a simple application for a synchronized and centralized time desi
 
 ## API
 
-Live Server at [Heroku](https://event-timer.herokuapp.com/)
+Live Server at [Heroku](https://event-timer.herokuapp.com/). Message me for API documentation.
 
 ## NPM Scripts
 
@@ -77,10 +77,6 @@ framework7 generate-assets --ui
 
 Love Framework7? Support project by donating or pledging on patreon:
 https://patreon.com/vladimirkharlampidi
-
-## Message
-
-Message me for API
 
 ## Android Package
 
