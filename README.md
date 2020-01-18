@@ -6,6 +6,8 @@ A time management application built with Framework7 and Javascript
 
 Event Timer is a simple application for a synchronized and centralized time designed and developed by <b>Isaac D. Arcilla</b> of the College of Engineering using web technologies.
 
+Live Server at [Heroku](https://event-timer.herokuapp.com/)
+
 ## NPM Scripts
 
 * 🔥 `start` - run development server
@@ -76,4 +78,4 @@ https://patreon.com/vladimirkharlampidi
 
 ## Message
 
-Message me for API.
+Message me for API
