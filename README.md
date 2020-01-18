@@ -1,6 +1,6 @@
 # Event Timer for Android
 
-A time management application build with Framework 7
+A time management application built with Framework7 and Javascript
 
 ![](https://framework7.io/i/brand-logos/pwa-red.svg)
 
@@ -56,6 +56,10 @@ Or launch UI where you will be able to change icons and splash screens:
 ```
 framework7 generate-assets --ui
 ```
+
+## Screenshots
+
+![Screenshot](https://github.com/isaacdarcilla/f7-timer/blob/master/src/assets/_home_isaac_Desktop_Dev_identification-scanner-vue_www_index.html.png)
 
 ## Documentation & Resources
 
