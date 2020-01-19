@@ -115,3 +115,16 @@ https://patreon.com/vladimirkharlampidi
 ## Developer
 
 [Isaac D. Arcilla](https://web.facebook.com/isaacdarcilla)
+
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+[![alt text][6.1]][6]
+
+
+[1.1]: http://i.imgur.com/tXSoThF.png (Isaac's Twitter)
+[2.1]: http://i.imgur.com/P3YfQoD.png (Isaac's Facebook)
+[6.1]: http://i.imgur.com/0o48UoR.png (Isaac's Github)
+
+[1]: http://www.twitter.com/isaacdarcilla
+[2]: http://www.facebook.com/isaacdarcilla
+[6]: http://www.github.com/isaacdarcilla
