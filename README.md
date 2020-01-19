@@ -19,10 +19,10 @@ Live Server at [Heroku](https://event-timer.herokuapp.com/). Message me for API 
 
 ## TODO
 
-[ ] Add day in countdown
-[ ] Edit Event to Event Details
-[ ] Change icon
-[ ] Release in google play
+- [ ] Add day in countdown
+- [ ] Edit Event to Event Details
+- [ ] Change icon
+- [ ] Release in google play
 
 ## NPM Scripts
 
