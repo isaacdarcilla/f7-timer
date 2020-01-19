@@ -114,7 +114,7 @@ https://patreon.com/vladimirkharlampidi
 
 ## Developer
 
-[Isaac D. Arcilla](https://web.facebook.com/isaacdarcilla)
+Isaac D. Arcilla. I'm everywhere. Visit my social links below.
 
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
