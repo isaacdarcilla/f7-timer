@@ -10,6 +10,22 @@ Event Timer is a simple application for a synchronized and centralized time desi
 
 Live Server at [Heroku](https://event-timer.herokuapp.com/). Message me for API documentation.
 
+```json
+[
+  {
+    "id": "9",
+    "event": "Amazing Race 2020",
+    "token": "112768",
+    "hours": "00",
+    "minutes": "15",
+    "seconds": "00",
+    "switch": "Team switch number 14",
+    "date_added": "Jan 19, 2020 09:31:10",
+    "date_expire": "Jan 19, 2020 09:46:10"
+  }
+]
+```
+
 ## Installation
 
 1. Clone this repo
