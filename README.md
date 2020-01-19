@@ -10,6 +10,20 @@ Event Timer is a simple application for a synchronized and centralized time desi
 
 Live Server at [Heroku](https://event-timer.herokuapp.com/). Message me for API documentation.
 
+## Installation
+
+1. Clone this repo
+2. Run `npm install`
+3. Run `npm start`
+4. Enjoy
+
+## TODO
+
+[] Add day in countdown
+[] Edit Event to Event Details
+[] Change icon
+[] Release in google play
+
 ## NPM Scripts
 
 * 🔥 `start` - run development server
