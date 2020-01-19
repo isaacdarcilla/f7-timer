@@ -31,9 +31,9 @@ Live Server at [Heroku](https://event-timer.herokuapp.com/). Message me for API 
 1. Clone this repo
 2. Run `npm install`
 3. Run `npm start`
-4. Enjoy
+4. Enjoy!
 
-## TODO
+## Todo
 
 - [ ] Add day in countdown
 - [ ] Edit Event to Event Details
@@ -111,3 +111,7 @@ https://patreon.com/vladimirkharlampidi
 ## Android Package
 
 📱 Download the android APK http://bit.ly/3amZt4M
+
+## Developer
+
+[Isaac D. Arcilla](https://web.facebook.com/isaacdarcilla)
