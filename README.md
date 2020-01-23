@@ -35,6 +35,7 @@ Live Server at [Heroku](https://event-timer.herokuapp.com/). Message me for API 
 
 ## Todo
 
+- [x] Build a beta apk
 - [ ] Add day in countdown
 - [ ] Edit Event to Event Details
 - [ ] Change icon
