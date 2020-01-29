@@ -30,7 +30,7 @@ Live Server at [Heroku](https://event-timer.herokuapp.com/). Message me for API 
 
 1. Clone this repo
 2. Run `npm install` to install dependencies
-3. Run `npm start` to start development 
+3. Run `npm start` to start development server 
 4. Enjoy!
 
 ## Todo
