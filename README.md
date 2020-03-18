@@ -40,6 +40,7 @@ Live Server at [Heroku](https://event-timer.herokuapp.com/). Message me for API 
 - [ ] Edit Event to Event Details
 - [ ] Change icon
 - [ ] Release in google play
+- [ ] Create website
 
 ## NPM Scripts
 
