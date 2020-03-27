@@ -1,6 +1,6 @@
 # Event Timer for Android
 
-🔥 A time management application built with Framework7 and Javascript
+🔥 A time management application built with Framework7 and Vue
 
 ![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.plego.com%2Fwp-content%2Fuploads%2F2018%2F08%2Fframe-work-7logo.jpg&f=1&nofb=1)
 
